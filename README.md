@@ -1,2 +1,0 @@
-# unionlux-admin
-Painel Administrativo
